@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 11 Feb 2012 01:57:47 +0700</pubDate><title>Гостевая книга</title><url>feedback</url><meta>отзывы, обратная связь</meta><metad/><menu>Гостевая</menu><menuStatus>Y</menuStatus><template>template.php</template><parent/><content>&amp;lt;h3&amp;gt;
+	Уважаемый посетитель,&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+	поделитесь своим мнением, оставьте свой отзыв, выскажите пожелания&amp;lt;/p&amp;gt;
+&amp;lt;h4&amp;gt;
+	Благодарим вас за внимание к нашей работе!&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;
+	{guestbook}&amp;lt;/p&amp;gt;
+</content><private/><menuOrder><![CDATA[5]]></menuOrder></item>

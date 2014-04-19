@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 11 Feb 2012 14:15:34 +0600</pubDate><title><![CDATA[Контакты]]></title><url><![CDATA[contacts]]></url><meta><![CDATA[контакты]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Контакты]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h4&gt;
+	Вы можете связаться с нами по телефонам:&lt;/h4&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	+7-72774-3-21-62,&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	+7-777-354-09-03,&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	+7-702-450-00-75&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Написать нам:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	skibin-yura@mail.ru&lt;/p&gt;
+&lt;h4&gt;
+	Или отправить письмо прямо отсюда:&lt;/h4&gt;
+&lt;p&gt;
+	(% contact %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><menuOrder><![CDATA[4]]></menuOrder></item>

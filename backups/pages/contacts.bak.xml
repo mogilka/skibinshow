@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 11 Feb 2012 01:13:02 +0700</pubDate><title>Контакты</title><url>contacts</url><meta>контакты</meta><metad/><menu>Контакты</menu><menuStatus>Y</menuStatus><template>template.php</template><parent/><content>&amp;lt;h4&amp;gt;
+	Вы можете связаться с нами по телефонам:&amp;lt;/h4&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: center&amp;quot;&amp;gt;
+	+7-72774-3-21-62,&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: center&amp;quot;&amp;gt;
+	+7-777-354-09-03,&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: center&amp;quot;&amp;gt;
+	+7-702-450-00-75&amp;lt;/p&amp;gt;
+&amp;lt;h4&amp;gt;
+	Или отправить письмо прямо отсюда:&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;
+	(% contact %)&amp;lt;/p&amp;gt;
+</content><private/><menuOrder><![CDATA[4]]></menuOrder></item>

@@ -1,0 +1,1 @@
+GUESTBOOK|Nickname|Leave your comment|send|has wrote|There aren't comments for this page.|Your Nickname|Write here the text|Add these numbers:|There aren't posts for pages.|Select|Delete|The selected posts are deleted.

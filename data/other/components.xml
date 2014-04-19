@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[Counter]]></title><slug>counter</slug><value><![CDATA[&lt;!--Openstat--&gt;&lt;span id=&quot;openstat2172640&quot;&gt;&lt;/span&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+	var openstat = { counter: 2172640, image: 5053, next: openstat }; (function(d, t, p) {
+	var j = d.createElement(t); j.async = true; j.type = &quot;text/javascript&quot;;
+	j.src = (&quot;https:&quot; == p ? &quot;https:&quot; : &quot;http:&quot;) + &quot;//openstat.net/cnt.js&quot;;
+	var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+	})(document, &quot;script&quot;, document.location.protocol);
+&lt;/script&gt;&lt;!--/Openstat--&gt;]]></value></item><item><title><![CDATA[Tagline]]></title><slug>tagline</slug><value><![CDATA[Профессиональная организация и проведение мероприятий и торжеств]]></value></item></channel>

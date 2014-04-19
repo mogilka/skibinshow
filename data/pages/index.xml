@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 11 Feb 2012 14:13:18 +0600</pubDate><title><![CDATA[Добро пожаловать]]></title><url><![CDATA[index]]></url><meta><![CDATA[тамада, праздник]]></meta><metad><![CDATA[Профессиональная организация и проведение 
+ мероприятий и торжеств]]></metad><menu><![CDATA[Главная]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	на официальную страницу Шоу-Группы Юрия Скибина.&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	Здесь Вы сможете подробней познакомиться с нашими услугами,&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	поделиться мнением о нас,&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	задать интересующие вопросы и многое другое.&lt;/p&gt;
+&lt;p style=\&quot;text-align: center;\&quot;&gt;
+	(% gallery name=about %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><menuOrder><![CDATA[1]]></menuOrder></item>

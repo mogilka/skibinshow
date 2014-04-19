@@ -1,0 +1,1 @@
+GUESTBOOK|Nickname|Lascia un commento|Invia|ha scritto|Nessun commento per questa pagina.|Il tuo Nickname.|Scrivi qui il testo.|Somma questi numeri:|Nessuna pagina commentata.|Seleziona|Elimina|I commenti selezionati sono stati rimossi.
